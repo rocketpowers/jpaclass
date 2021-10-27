@@ -1,0 +1,7 @@
+-aprendendo mais sobre a implementacao e uitilizacao do jpa
+
+- manipulacao de banco com phpmyadmin, sendo mesma coisa q workbench
+
+- pincelada basica nas transaction com remocao no banco
+
+-
